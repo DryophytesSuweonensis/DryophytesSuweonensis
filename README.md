@@ -1,16 +1,27 @@
-## Hi there 👋
+# Inbum Lee
 
-<!--
-**DryophytesSuweonensis/DryophytesSuweonensis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. Researcher in Electrical and Electronic Engineering
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Quantum Algorithms
+- Quantum Resource Analysis
+- RF/Microwave Applications
+
+## Current Topics
+
+- Variational Quantum Linear Solver (VQLS)
+- Quantum Linear Systems
+- Quantum Random Access Memory (QRAM)
+- Reversible Quantum Computation
+- Quantum Oracle Complexity
+
+## Research Focus
+
+I am interested in evaluating quantum algorithms under realistic implementation constraints, including state preparation, oracle construction, data access, reversible computation, measurement, and classical processing costs.
+
+## Contact
+
+GitHub: `https://github.com/DryophytesSuweonensis`  
+Google Scholar: `https://scholar.google.com/citations?user=F5bgz1sAAAAJ&hl=ko&oi=ao`  
+ORCID: `0009-0005-6665-4132`
